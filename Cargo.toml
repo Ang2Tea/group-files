@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "group-files-cli",
+    "group-files-lib",
+]
